@@ -1,0 +1,7 @@
+{
+  "name": "IFB-ACCESS",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
