@@ -1,0 +1,52 @@
+<ion-header class="ion-no-border ion-margin-top">
+  <ion-toolbar>
+    <ion-buttons slot="start" class="">
+      <ion-back-button
+        size="large"
+        icon="close"
+        defaultHref="carteira"
+      ></ion-back-button>
+    </ion-buttons>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+  <ion-card>
+    <ion-text color="dark" class="">
+      <h1 class="ajeitar">Adicionar à Carteira</h1>
+    </ion-text>
+    <ion-card-content class="ion-no-padding">
+      <ion-list lines="none">
+        <ion-item [routerLink]="['/cardadd']">
+          <ion-thumbnail slot="start">
+            <img src="assets/images/cardadd.svg" />
+          </ion-thumbnail>
+          <ion-label class="ion-text-wrap">
+            <h1>Cartão Estudantil</h1>
+            <p>Acesse a instituição de forma mais pratica</p>
+          </ion-label>
+        </ion-item>
+
+        <ion-item [disabled]="true">
+          <ion-thumbnail slot="start">
+            <img src="assets/images/bus.svg" />
+          </ion-thumbnail>
+          <ion-label class="ion-text-wrap">
+            <h1>Cartão de transporte</h1>
+            <p>Facilite seu direito de ir e vir</p>
+          </ion-label>
+        </ion-item>
+
+        <ion-item [disabled]="true">
+          <ion-thumbnail slot="start">
+            <img src="assets/images/presenca.svg" />
+          </ion-thumbnail>
+          <ion-label class="ion-text-wrap">
+            <h1>Presença</h1>
+            <p>Registre sua presença em eventos apresentando o QRcode</p>
+          </ion-label>
+        </ion-item>
+      </ion-list>
+    </ion-card-content>
+  </ion-card>
+</ion-content>

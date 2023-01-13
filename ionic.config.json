@@ -1,7 +1,8 @@
 {
   "name": "IFB-ACCESS",
   "integrations": {
-    "capacitor": {}
+    "capacitor": {},
+    "cordova": {}
   },
   "type": "angular"
 }
