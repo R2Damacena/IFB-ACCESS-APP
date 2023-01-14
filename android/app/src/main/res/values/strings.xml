@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="app_name">IFB-ACCESS</string>
-    <string name="title_activity_main">IFB-ACCESS</string>
+    <string name="app_name">IFB Access</string>
+    <string name="title_activity_main">IFB Access</string>
     <string name="package_name">com.damacenaarthur.app</string>
     <string name="custom_url_scheme">com.damacenaarthur.app</string>
 </resources>
