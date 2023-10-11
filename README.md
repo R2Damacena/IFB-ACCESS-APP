@@ -14,7 +14,7 @@ Você pode encontrar a [<ins>**documentação**</ins>](https://docs.google.com/d
 ## Protótipo
 
 
-O [<ins>**protótipo**</ins>](https://www.figma.com/proto/IcSOi6FNlU1FFlPj3mbFeV/Mobile-Acess?node-id=8%3A16&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A11) do aplicativo se encontra no figma. Algumas imagens do protótipo abaixo através de um gif.
+Algumas imagens do protótipo abaixo através de um gif.
 <p align="center">
   <img alt="Demo" src="https://media.giphy.com/media/DzbWjQbci1R8s2S5MI/giphy.gif">
 </p>
